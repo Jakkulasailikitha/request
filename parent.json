@@ -1,0 +1,136 @@
+{
+    "data": [
+        {
+            "id": "4112",
+            "parent_exercise_id": null,
+            "name": "Getting Started",
+            "slug": "getting-started__getting-started_md",
+            "sequence_num": 0,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/getting-started.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4113",
+            "parent_exercise_id": null,
+            "name": "Constitution",
+            "slug": "getting-started__constitution_md",
+            "sequence_num": 100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/constitution.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4109",
+            "parent_exercise_id": null,
+            "name": "Toggl",
+            "slug": "getting-started__toggl_md",
+            "sequence_num": 200,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/toggl.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4115",
+            "parent_exercise_id": null,
+            "name": "Seva",
+            "slug": "getting-started__seva_md",
+            "sequence_num": 300,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/seva.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4111",
+            "parent_exercise_id": null,
+            "name": "Good Bad Ugly",
+            "slug": "getting-started__gbu_md",
+            "sequence_num": 400,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/gbu.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4116",
+            "parent_exercise_id": null,
+            "name": "Awards",
+            "slug": "getting-started__awards_md",
+            "sequence_num": 500,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/awards.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4117",
+            "parent_exercise_id": null,
+            "name": "Manthan",
+            "slug": "getting-started__manthan_md",
+            "sequence_num": 600,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/manthan.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4114",
+            "parent_exercise_id": null,
+            "name": "Padhain Shuru Karein",
+            "slug": "getting-started__padhai-shuru-karein_md",
+            "sequence_num": 700,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/padhai-shuru-karein.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4108",
+            "parent_exercise_id": null,
+            "name": "Some Important Rules",
+            "slug": "getting-started__rules_md",
+            "sequence_num": 800,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/rules.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4110",
+            "parent_exercise_id": null,
+            "name": "Leave Policy",
+            "slug": "getting-started__leaves_md",
+            "sequence_num": 900,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/leaves.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4118",
+            "parent_exercise_id": null,
+            "name": "Useful Links",
+            "slug": "getting-started__useful-links_md",
+            "sequence_num": 1000,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/useful-links.md",
+            "submission_type": null,
+            "childExercises": []
+        },
+        {
+            "id": "4119",
+            "parent_exercise_id": null,
+            "name": "Important Contacts",
+            "slug": "getting-started__contacts_md",
+            "sequence_num": 1100,
+            "review_type": "manual",
+            "github_link": "https://github.com/navgurukul/newton/tree/master/getting-started/contacts.md",
+            "submission_type": null,
+            "childExercises": []
+        }
+    ]
+}

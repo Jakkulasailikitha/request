@@ -1,0 +1,10 @@
+from turtle import*
+speed(4)
+penup()
+goto(-160,20)
+pendown()
+color('#f25022')
+begin_fill()
+lt()
+fd(120)
+rt(60)
